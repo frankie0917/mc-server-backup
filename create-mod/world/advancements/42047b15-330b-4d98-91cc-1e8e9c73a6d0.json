@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "signpost:recipes/signpost/post_iron": {
+    "criteria": {
+      "has_sign": "2022-01-15 20:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2021-12-20 16:57:58 +0000"
@@ -428,6 +434,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2021-12-21 14:45:11 +0000"
+    },
+    "done": true
+  },
+  "signpost:recipes/signpost/post_birch": {
+    "criteria": {
+      "has_sign": "2022-01-15 20:11:22 +0000"
     },
     "done": true
   },
@@ -554,6 +566,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2021-12-27 14:53:43 +0000"
+    },
+    "done": true
+  },
+  "signpost:recipes/signpost/post_crimson": {
+    "criteria": {
+      "has_sign": "2022-01-15 20:11:22 +0000"
     },
     "done": true
   },
@@ -731,6 +749,12 @@
     },
     "done": true
   },
+  "signpost:recipes/signpost/post_acacia": {
+    "criteria": {
+      "has_sign": "2022-01-15 20:11:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/food/smelting/bread": {
     "criteria": {
       "has_item": "2021-12-27 15:52:37 +0000"
@@ -800,6 +824,12 @@
   "create:recipes/create.palettes/tuff_pillar_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2021-12-22 18:05:59 +0000"
+    },
+    "done": true
+  },
+  "signpost:recipes/signpost/post_spruce": {
+    "criteria": {
+      "has_sign": "2022-01-15 20:11:22 +0000"
     },
     "done": true
   },
@@ -1582,6 +1612,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-12-19 17:26:56 +0000"
+    },
+    "done": true
+  },
+  "signpost:recipes/signpost/post_sandstone": {
+    "criteria": {
+      "has_sign": "2022-01-15 20:11:22 +0000"
     },
     "done": true
   },
@@ -2558,6 +2594,12 @@
     },
     "done": true
   },
+  "signpost:recipes/signpost/post_dark_oak": {
+    "criteria": {
+      "has_sign": "2022-01-15 20:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-12-19 16:53:07 +0000"
@@ -2684,6 +2726,12 @@
     },
     "done": true
   },
+  "signpost:recipes/signpost/post_oak": {
+    "criteria": {
+      "has_sign": "2022-01-15 20:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2021-12-19 16:55:55 +0000"
@@ -2759,6 +2807,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2021-12-20 15:16:28 +0000"
+    },
+    "done": true
+  },
+  "signpost:recipes/signpost/post_stone": {
+    "criteria": {
+      "has_sign": "2022-01-15 20:11:22 +0000"
     },
     "done": true
   },
@@ -3365,6 +3419,12 @@
     },
     "done": true
   },
+  "signpost:recipes/signpost/post_jungle": {
+    "criteria": {
+      "has_sign": "2022-01-15 20:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2021-12-19 17:31:03 +0000"
@@ -3504,6 +3564,7 @@
       "minecraft:deep_ocean": "2022-01-09 16:51:13 +0000",
       "minecraft:sunflower_plains": "2022-01-15 19:07:02 +0000",
       "minecraft:birch_forest": "2021-12-20 13:36:25 +0000",
+      "minecraft:windswept_hills": "2022-01-15 19:21:10 +0000",
       "minecraft:wooded_badlands": "2022-01-15 19:03:51 +0000",
       "minecraft:badlands": "2022-01-15 18:10:52 +0000",
       "minecraft:beach": "2021-12-19 16:55:17 +0000",
@@ -4761,6 +4822,12 @@
   "create:recipes/create.palettes/layered_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-22 14:05:25 +0000"
+    },
+    "done": true
+  },
+  "signpost:recipes/signpost/post_warped": {
+    "criteria": {
+      "has_sign": "2022-01-15 20:11:22 +0000"
     },
     "done": true
   },
