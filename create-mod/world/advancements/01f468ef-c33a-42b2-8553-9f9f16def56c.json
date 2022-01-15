@@ -902,6 +902,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2022-01-15 18:39:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2021-12-20 16:21:17 +0000"
@@ -4279,6 +4285,12 @@
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2022-01-02 21:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2022-01-15 18:24:45 +0000"
     },
     "done": true
   },
