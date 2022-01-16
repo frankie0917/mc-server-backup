@@ -1291,6 +1291,12 @@
     },
     "done": true
   },
+  "signpost:recipes/signpost/brush": {
+    "criteria": {
+      "has_signpost": "2022-01-16 19:32:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-12-19 17:47:52 +0000"
@@ -2549,6 +2555,12 @@
   "create:recipes/create.palettes/polished_cut_veridium_stairs_from_veridium_stonecutting": {
     "criteria": {
       "has_veridium": "2022-01-16 16:22:25 +0000"
+    },
+    "done": true
+  },
+  "signpost:recipes/signpost/tool": {
+    "criteria": {
+      "has_signpost": "2022-01-16 19:32:02 +0000"
     },
     "done": true
   },
