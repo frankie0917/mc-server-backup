@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_slab_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2021-12-21 14:45:11 +0000"
@@ -1031,6 +1037,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2022-01-16 16:32:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/diving_helmet": {
     "criteria": {
       "has_item": "2022-01-05 15:53:48 +0000"
@@ -1339,6 +1351,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_brick_wall_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2021-12-19 17:09:53 +0000"
@@ -1366,6 +1384,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-12-28 04:24:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_slab_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
     },
     "done": true
   },
@@ -1462,6 +1486,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2021-12-27 14:44:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_brick_stairs_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
     },
     "done": true
   },
@@ -1766,6 +1796,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_wall_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-20 14:50:15 +0000"
@@ -1925,6 +1961,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2021-12-19 17:31:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_brick_slab_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
     },
     "done": true
   },
@@ -2123,6 +2165,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-12-19 17:58:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_brick_stairs_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
     },
     "done": true
   },
@@ -2678,6 +2726,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2021-12-20 15:16:27 +0000"
@@ -2747,6 +2801,12 @@
   "create:recipes/create.palettes/cut_dripstone_brick_wall_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2021-12-23 15:40:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_bricks_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
     },
     "done": true
   },
@@ -2873,6 +2933,12 @@
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-12-19 16:47:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_wall_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
     },
     "done": true
   },
@@ -3290,6 +3356,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2021-12-27 15:53:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_brick_slab_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
     },
     "done": true
   },
@@ -3781,6 +3853,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2022-01-02 17:22:13 +0000"
@@ -3841,6 +3919,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2021-12-27 14:45:48 +0000"
@@ -3871,6 +3955,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_bricks_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2022-01-05 19:57:05 +0000"
@@ -3898,6 +3988,12 @@
   "create:recipes/create.palettes/small_granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-12-19 16:47:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_stairs_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
     },
     "done": true
   },
@@ -4106,6 +4202,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_pillar_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2021-12-20 15:01:02 +0000"
@@ -4205,6 +4307,12 @@
   "create:recipes/create.palettes/polished_cut_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-12-19 16:47:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_stairs_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
     },
     "done": true
   },
@@ -4487,6 +4595,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2021-12-19 16:55:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_brick_wall_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2022-01-16 16:32:41 +0000"
     },
     "done": true
   },
