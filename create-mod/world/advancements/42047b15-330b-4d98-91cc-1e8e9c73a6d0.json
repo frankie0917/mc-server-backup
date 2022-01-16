@@ -2624,6 +2624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-01-16 15:18:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_dripstone_slab_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2021-12-23 15:40:43 +0000"
@@ -3590,6 +3596,7 @@
       "minecraft:frozen_peaks": "2022-01-05 18:03:42 +0000",
       "minecraft:old_growth_birch_forest": "2021-12-20 13:44:22 +0000",
       "minecraft:meadow": "2021-12-20 13:59:51 +0000",
+      "minecraft:savanna": "2022-01-16 15:11:57 +0000",
       "minecraft:plains": "2021-12-19 16:39:37 +0000"
     },
     "done": false
