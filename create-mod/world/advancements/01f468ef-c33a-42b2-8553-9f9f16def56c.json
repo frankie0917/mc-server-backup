@@ -1022,6 +1022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-01-16 17:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2021-12-20 15:00:32 +0000"
@@ -1388,6 +1394,12 @@
   "create:recipes/create.base/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2021-12-22 16:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-01-16 18:27:36 +0000"
     },
     "done": true
   },
@@ -3343,6 +3355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2022-01-16 17:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-12-20 16:52:48 +0000"
@@ -4489,6 +4507,12 @@
   "create:recipes/create.palettes/cut_asurine_stairs_from_asurine_stonecutting": {
     "criteria": {
       "has_asurine": "2021-12-27 13:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-01-16 17:47:48 +0000"
     },
     "done": true
   },

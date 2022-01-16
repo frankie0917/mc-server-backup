@@ -1213,6 +1213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-01-16 18:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pickaxe": "2021-12-19 17:32:13 +0000"
@@ -2870,6 +2876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-01-16 18:03:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-22 14:05:25 +0000"
@@ -2918,6 +2930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2022-01-16 18:03:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-12-19 16:47:41 +0000"
@@ -2927,6 +2945,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2021-12-20 15:30:12 +0000"
+    },
+    "done": true
+  },
+  "create:wrench": {
+    "criteria": {
+      "0": "2022-01-16 17:59:55 +0000"
     },
     "done": true
   },
@@ -3458,6 +3482,12 @@
   "create:recipes/create.palettes/cut_veridium_from_veridium_stonecutting": {
     "criteria": {
       "has_veridium": "2022-01-16 16:22:25 +0000"
+    },
+    "done": true
+  },
+  "signpost:recipes/signpost/waystone": {
+    "criteria": {
+      "has_ender_pearl": "2022-01-16 18:03:05 +0000"
     },
     "done": true
   },
@@ -4331,6 +4361,12 @@
   "create:recipes/create.palettes/cut_veridium_stairs_from_veridium_stonecutting": {
     "criteria": {
       "has_veridium": "2022-01-16 16:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2022-01-16 18:03:02 +0000"
     },
     "done": true
   },
