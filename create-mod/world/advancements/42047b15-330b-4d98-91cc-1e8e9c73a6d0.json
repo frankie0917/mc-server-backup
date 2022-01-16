@@ -11,6 +11,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2022-01-16 19:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2022-01-16 19:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2021-12-19 16:55:52 +0000"
@@ -605,6 +617,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2022-01-16 19:19:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_dripstone_stairs_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2021-12-23 15:40:43 +0000"
@@ -692,6 +710,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2021-12-19 16:47:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2022-01-16 19:15:34 +0000"
     },
     "done": true
   },
@@ -1345,6 +1369,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2022-01-16 19:15:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2021-12-21 17:41:34 +0000"
@@ -1441,6 +1471,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2022-01-16 19:15:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-01-08 17:32:25 +0000"
@@ -1528,6 +1564,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-12-19 17:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2022-01-16 19:19:38 +0000"
     },
     "done": true
   },
@@ -1642,6 +1684,12 @@
   "create:recipes/create.palettes/polished_cut_ochrum_stairs_from_ochrum_stonecutting": {
     "criteria": {
       "has_ochrum": "2021-12-23 15:50:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2022-01-16 19:15:34 +0000"
     },
     "done": true
   },
@@ -1769,6 +1817,12 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "interact": "2022-01-02 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2022-01-16 19:15:34 +0000"
     },
     "done": true
   },
@@ -2000,6 +2054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2022-01-16 19:06:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2021-12-19 18:14:51 +0000"
@@ -2102,9 +2162,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2022-01-16 18:37:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2021-12-19 17:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2022-01-16 19:23:38 +0000"
     },
     "done": true
   },
@@ -2918,6 +2990,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2022-01-16 19:15:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-20 14:50:15 +0000"
@@ -3029,6 +3107,12 @@
   "create:recipes/create.palettes/cut_ochrum_brick_slab_from_ochrum_stonecutting": {
     "criteria": {
       "has_ochrum": "2021-12-23 15:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2022-01-16 18:54:15 +0000"
     },
     "done": true
   },
@@ -3248,6 +3332,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2022-01-08 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2022-01-16 19:15:34 +0000"
     },
     "done": true
   },
@@ -3536,6 +3626,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-12-19 16:55:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2022-01-16 19:15:35 +0000"
     },
     "done": true
   },
@@ -3847,9 +3943,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2022-01-16 19:19:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-12-19 16:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2022-01-16 19:23:38 +0000"
     },
     "done": true
   },
@@ -4063,6 +4171,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2022-01-16 19:15:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-12-21 17:44:47 +0000"
@@ -4105,6 +4219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2022-01-16 19:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
       "has_magenta_dye": "2021-12-20 14:46:26 +0000"
@@ -4132,6 +4252,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2021-12-27 14:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2022-01-16 19:15:34 +0000"
     },
     "done": true
   },
@@ -4346,6 +4472,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2022-01-16 19:15:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-12-20 20:11:24 +0000"
@@ -4385,6 +4517,12 @@
   "create:recipes/create.base/crafting/kinetics/light_blue_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2022-01-09 16:15:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2022-01-16 19:15:34 +0000"
     },
     "done": true
   },
@@ -4832,6 +4970,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2022-01-16 19:15:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2021-12-19 16:52:34 +0000"
@@ -4949,6 +5093,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2021-12-19 16:55:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2022-01-16 19:15:34 +0000"
     },
     "done": true
   },

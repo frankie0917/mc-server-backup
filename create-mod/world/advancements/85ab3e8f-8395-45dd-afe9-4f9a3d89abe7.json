@@ -1322,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2022-01-16 18:36:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-25 12:44:08 +0000"

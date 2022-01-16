@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2022-01-16 18:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2021-12-19 16:53:43 +0000"
@@ -1139,6 +1145,12 @@
   "create:recipes/create.palettes/polished_cut_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2021-12-19 17:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-01-16 18:33:21 +0000"
     },
     "done": true
   },
@@ -2329,6 +2341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2022-01-16 18:33:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_wall_from_asurine_stonecutting": {
     "criteria": {
       "has_asurine": "2021-12-27 13:41:38 +0000"
@@ -2833,6 +2851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-01-16 18:33:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2021-12-19 17:32:48 +0000"
@@ -2965,6 +2989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2022-01-16 18:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-19 17:47:58 +0000"
@@ -3022,6 +3052,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2021-12-22 16:26:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-01-16 18:33:21 +0000"
     },
     "done": true
   },
@@ -4133,6 +4169,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2022-01-16 18:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2021-12-19 17:13:24 +0000"
@@ -5065,6 +5107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2022-01-16 18:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-12-20 15:34:11 +0000"
@@ -5128,6 +5176,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-12-19 16:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2022-01-16 18:33:21 +0000"
     },
     "done": true
   },
@@ -5440,6 +5494,12 @@
   "create:recipes/create.palettes/cut_veridium_bricks_from_veridium_stonecutting": {
     "criteria": {
       "has_veridium": "2021-12-19 17:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2022-01-16 18:33:21 +0000"
     },
     "done": true
   },
