@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_veridium_wall_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-12-20 20:11:24 +0000"
@@ -212,6 +218,12 @@
   "create:recipes/create.palettes/cut_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2021-12-22 18:05:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_brick_slab_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
     },
     "done": true
   },
@@ -464,6 +476,12 @@
   "create:recipes/create.palettes/cut_ochrum_brick_wall_from_ochrum_stonecutting": {
     "criteria": {
       "has_ochrum": "2021-12-23 15:50:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_wall_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
     },
     "done": true
   },
@@ -1507,6 +1525,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/veridium_pillar_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-12-19 17:13:23 +0000"
@@ -1642,6 +1666,12 @@
   "create:recipes/create.palettes/cut_ochrum_stairs_from_ochrum_stonecutting": {
     "criteria": {
       "has_ochrum": "2021-12-23 15:50:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_veridium_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
     },
     "done": true
   },
@@ -1886,6 +1916,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_brick_stairs_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2021-12-19 17:31:03 +0000"
@@ -2027,6 +2063,12 @@
   "create:recipes/create.palettes/polished_cut_limestone_slab_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-12-20 17:21:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_veridium_brick_wall_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
     },
     "done": true
   },
@@ -2204,6 +2246,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_veridium_brick_slab_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-12-20 16:57:58 +0000"
@@ -2306,6 +2354,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_veridium_brick_stairs_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_calcite_brick_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2021-12-20 15:16:27 +0000"
@@ -2366,6 +2420,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_veridium_stairs_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2021-12-27 14:53:43 +0000"
@@ -2399,6 +2459,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-12-27 14:45:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_veridium_bricks_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
     },
     "done": true
   },
@@ -3317,6 +3383,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2021-12-19 17:09:53 +0000"
@@ -3464,6 +3536,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2021-12-20 14:22:13 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2022-01-16 16:22:38 +0000"
     },
     "done": true
   },
@@ -3769,6 +3847,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_slab_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2021-12-20 20:18:25 +0000"
@@ -3886,6 +3970,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-12-19 17:13:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_brick_wall_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
     },
     "done": true
   },
@@ -4127,6 +4217,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2021-12-20 15:01:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_stairs_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
     },
     "done": true
   },
@@ -4526,6 +4622,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_bricks_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-12-27 14:45:58 +0000"
@@ -4637,6 +4739,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2021-12-19 16:53:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_veridium_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
     },
     "done": true
   },
@@ -4895,6 +5003,12 @@
   "create:recipes/create.base/crafting/kinetics/light_gray_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2022-01-09 16:15:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_veridium_slab_from_veridium_stonecutting": {
+    "criteria": {
+      "has_veridium": "2022-01-16 16:22:25 +0000"
     },
     "done": true
   },

@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-01-16 16:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-12-22 16:25:02 +0000"
@@ -1421,6 +1427,12 @@
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2021-12-20 16:49:31 +0000"
+    },
+    "done": true
+  },
+  "signpost:recipes/signpost/waystone": {
+    "criteria": {
+      "has_ender_pearl": "2022-01-16 16:23:09 +0000"
     },
     "done": true
   },
@@ -3306,6 +3318,12 @@
   "create:recipes/create.base/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2021-12-25 20:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-01-16 16:12:09 +0000"
     },
     "done": true
   },

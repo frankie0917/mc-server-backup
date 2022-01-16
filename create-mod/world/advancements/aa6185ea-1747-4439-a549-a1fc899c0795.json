@@ -3198,6 +3198,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2022-01-16 16:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2021-12-25 16:55:16 +0000"
@@ -3347,6 +3353,7 @@
       "minecraft:creeper": "2021-12-20 15:43:50 +0000",
       "minecraft:zombified_piglin": "2021-12-26 17:21:31 +0000",
       "minecraft:wither_skeleton": "2021-12-27 15:07:50 +0000",
+      "minecraft:cave_spider": "2022-01-16 16:22:19 +0000",
       "minecraft:enderman": "2021-12-20 15:46:21 +0000",
       "minecraft:zombie": "2021-12-19 18:05:32 +0000",
       "minecraft:drowned": "2021-12-23 12:44:37 +0000",
@@ -3855,6 +3862,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2021-12-20 13:57:35 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2022-01-16 16:22:42 +0000"
     },
     "done": true
   },
