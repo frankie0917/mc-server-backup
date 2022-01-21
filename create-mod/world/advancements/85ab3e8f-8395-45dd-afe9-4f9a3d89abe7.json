@@ -901,6 +901,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-01-21 22:00:39 +0000",
       "minecraft:skeleton": "2021-12-22 16:17:57 +0000",
       "minecraft:spider": "2021-12-22 16:18:11 +0000",
       "minecraft:zombie": "2021-12-20 14:53:33 +0000",
@@ -1914,6 +1915,7 @@
       "minecraft:deep_lukewarm_ocean": "2022-01-16 14:04:16 +0000",
       "minecraft:flower_forest": "2022-01-09 15:16:55 +0000",
       "minecraft:old_growth_birch_forest": "2021-12-20 15:27:15 +0000",
+      "minecraft:savanna": "2022-01-21 21:53:46 +0000",
       "minecraft:plains": "2021-12-20 14:38:58 +0000"
     },
     "done": false

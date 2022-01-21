@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2022-01-21 22:00:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_veridium_brick_slab_from_veridium_stonecutting": {
     "criteria": {
       "has_veridium": "2021-12-19 17:29:53 +0000"
@@ -2098,6 +2104,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2021-12-19 17:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2022-01-21 22:00:15 +0000"
     },
     "done": true
   },
