@@ -1394,6 +1394,12 @@
     },
     "done": true
   },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2022-01-23 13:18:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2022-01-02 17:39:46 +0000"
