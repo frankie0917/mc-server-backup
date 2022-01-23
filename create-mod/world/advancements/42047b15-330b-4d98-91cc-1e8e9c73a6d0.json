@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2022-01-23 15:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_lime_dye": "2021-12-27 15:52:17 +0000"
@@ -1528,6 +1534,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2021-12-19 16:55:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2022-01-23 14:49:14 +0000"
     },
     "done": true
   },
@@ -3573,6 +3585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2022-01-23 15:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2021-12-20 14:35:29 +0000"
@@ -3906,6 +3924,7 @@
       "minecraft:windswept_forest": "2022-01-02 17:05:10 +0000",
       "minecraft:ocean": "2021-12-20 13:35:34 +0000",
       "minecraft:jungle": "2022-01-02 17:18:19 +0000",
+      "minecraft:old_growth_spruce_taiga": "2022-01-23 14:45:51 +0000",
       "minecraft:windswept_savanna": "2021-12-23 17:20:49 +0000",
       "minecraft:warm_ocean": "2022-01-15 14:52:47 +0000",
       "minecraft:deep_lukewarm_ocean": "2022-01-15 13:26:52 +0000",

@@ -1751,6 +1751,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2022-01-23 15:25:37 +0000"
+    },
+    "done": true
+  },
   "create:blaze_burner": {
     "criteria": {
       "0": "2021-12-27 14:52:15 +0000"
@@ -3169,6 +3175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-01-23 14:46:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_dripstone_slab_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2021-12-19 18:11:11 +0000"
@@ -4311,6 +4323,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2022-01-23 15:22:25 +0000",
       "minecraft:taiga": "2021-12-25 13:27:28 +0000",
       "minecraft:sunflower_plains": "2021-12-25 10:19:58 +0000",
       "minecraft:birch_forest": "2021-12-25 10:00:43 +0000",
@@ -4321,14 +4334,17 @@
       "minecraft:sparse_jungle": "2021-12-25 10:25:39 +0000",
       "minecraft:river": "2021-12-19 16:46:06 +0000",
       "minecraft:lukewarm_ocean": "2021-12-25 10:30:11 +0000",
+      "minecraft:stony_shore": "2022-01-23 14:56:27 +0000",
       "minecraft:dripstone_caves": "2021-12-27 14:04:21 +0000",
       "minecraft:swamp": "2021-12-25 10:05:24 +0000",
+      "minecraft:cold_ocean": "2022-01-23 14:56:05 +0000",
       "minecraft:forest": "2021-12-19 16:37:15 +0000",
       "minecraft:lush_caves": "2021-12-20 15:28:15 +0000",
       "minecraft:desert": "2021-12-25 10:26:52 +0000",
       "minecraft:windswept_forest": "2022-01-02 17:05:07 +0000",
       "minecraft:ocean": "2021-12-22 16:08:37 +0000",
       "minecraft:jungle": "2021-12-25 10:26:39 +0000",
+      "minecraft:old_growth_spruce_taiga": "2022-01-23 15:22:37 +0000",
       "minecraft:windswept_savanna": "2021-12-25 10:39:26 +0000",
       "minecraft:flower_forest": "2021-12-25 10:19:15 +0000",
       "minecraft:old_growth_birch_forest": "2021-12-20 15:22:05 +0000",
