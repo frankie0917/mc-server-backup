@@ -3306,7 +3306,9 @@
     "criteria": {
       "minecraft:pillager": "2022-01-21 22:00:51 +0000",
       "minecraft:skeleton": "2021-12-19 17:53:50 +0000",
+      "minecraft:ravager": "2022-01-23 13:45:51 +0000",
       "minecraft:guardian": "2022-01-21 21:10:01 +0000",
+      "minecraft:vindicator": "2022-01-23 13:43:40 +0000",
       "minecraft:magma_cube": "2021-12-27 15:39:34 +0000",
       "minecraft:spider": "2021-12-19 17:50:35 +0000",
       "minecraft:creeper": "2021-12-20 13:49:16 +0000",
@@ -4222,6 +4224,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-01-23 13:46:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-12-21 17:44:47 +0000"
@@ -5066,6 +5074,12 @@
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_light_blue_dye": "2021-12-20 20:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2022-01-23 13:47:43 +0000"
     },
     "done": true
   },
