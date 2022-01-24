@@ -1103,12 +1103,6 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2022-01-23 13:33:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2021-12-20 15:53:20 +0000"
@@ -1394,12 +1388,6 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2021-12-25 11:24:32 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2022-01-23 15:35:30 +0000"
     },
     "done": true
   },
@@ -3316,6 +3304,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2022-01-24 15:16:52 +0000",
       "minecraft:taiga": "2022-01-09 14:02:29 +0000",
       "minecraft:deep_ocean": "2022-01-09 14:22:48 +0000",
       "minecraft:birch_forest": "2021-12-25 11:31:44 +0000",
@@ -3325,6 +3314,7 @@
       "minecraft:sparse_jungle": "2022-01-02 17:18:49 +0000",
       "minecraft:river": "2021-12-20 16:00:46 +0000",
       "minecraft:lukewarm_ocean": "2022-01-16 14:03:52 +0000",
+      "minecraft:stony_shore": "2022-01-24 15:14:22 +0000",
       "minecraft:swamp": "2022-01-02 17:02:59 +0000",
       "minecraft:cold_ocean": "2022-01-09 13:48:31 +0000",
       "minecraft:forest": "2021-12-20 14:34:53 +0000",
@@ -3332,6 +3322,7 @@
       "minecraft:windswept_forest": "2022-01-02 17:05:11 +0000",
       "minecraft:ocean": "2021-12-25 12:03:43 +0000",
       "minecraft:jungle": "2022-01-02 17:19:19 +0000",
+      "minecraft:old_growth_spruce_taiga": "2022-01-24 15:14:04 +0000",
       "minecraft:windswept_savanna": "2022-01-02 17:39:35 +0000",
       "minecraft:deep_lukewarm_ocean": "2022-01-16 14:04:16 +0000",
       "minecraft:flower_forest": "2022-01-09 15:16:55 +0000",
